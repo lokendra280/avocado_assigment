@@ -28,6 +28,7 @@ class _DashboardWidgetState extends State<DashboardWidget>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Color.fromRGBO(23, 175, 78, 1),
         title: const Text(
           "Video",
           style: TextStyle(

@@ -21,6 +21,7 @@ class VideoDetailsWidget extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Post"),
+        backgroundColor: Color.fromRGBO(23, 175, 78, 1),
         leading: GestureDetector(
           child: const Icon(
             Icons.arrow_back_ios,

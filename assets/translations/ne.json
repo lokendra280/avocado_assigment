@@ -1,0 +1,136 @@
+{
+  "english": "अङ्ग्रेजी",
+  "nepali": "नेपाली",
+  "appTitle": "कृषि हब",
+  "common": {
+    "welcome": "Welcome",
+    "continueText": "जारी राख्नुहोस्",
+    "noDataFound": "कुनै डाटा फेला परेन",
+    "clear": "खाली गर्नुहोस्",
+    "search": "खोज्नुहोस्",
+    "submit": "पेश गर्नुहोस्",
+    "total": "कुल",
+    "cancel": "रद्द गर्नुहोस्",
+    "comingSoon": "आउदैछ",
+    "imageSizeExcceed": "छवि आकार नाघ्यो",
+    "maxSizeIs3MB": "अधिकतम आकार 3 MB",
+    "datanotFound": "डाटा फेला परेन",
+    "contactus": "सम्पर्क गर्नुहोस्",
+    "contactfromsubmit": "सम्पर्क फारम सफलतापूर्वक पठाउनुहोस्",
+    "news": "समाचार"
+  },
+  "login": {
+    "welcome": "स्वागत छ",
+    "signInToYourAccount": "खातामा साइन ईन गर्नुहोस्",
+    "mobileNumberOrEmail": "ईमेल",
+    "password": "पासवर्ड",
+    "rememberMe": "मलाई सम्झनुहोस्",
+    "forgetPassword": "पासवर्ड बिर्सिएँ",
+    "login": "लग ईन",
+    "newUser": "नयाँ प्रयोगकर्ता हो",
+    "createNewAccount": "नयाँ खाता बनाउनुहोस्",
+    "loginSuccessMessage": "सफलतापूर्वक लग इन"
+  },
+  "dashboard": {
+    "home": "गृहपृष्ठ",
+    "notification": "सूचनाहरू",
+    "profile": "प्रोफाइल"
+  },
+  "feedback": {
+    "firstname": "पहिलो नाम",
+    "cast": "थर",
+    "middlename": "बीचको नाम",
+    "email": "इमेल",
+    "phonenumber": "फोन नम्बर" ,
+    "titles": "शीर्षक",
+    "description": "विवरण",
+    "address": "ठेगाना",
+    "subject": "विषय",
+    "message": "सन्देश"
+  },
+
+
+
+
+  "profile": {
+    "logout": "लगआउट",
+    "logoutMessage": "के तपाइँ निश्चित हुनुहुन्छ कि तपाइँ लगआउट गर्न चाहानुहुन्छ",
+    "yesText": "हो",
+    "noText": "होइन",
+    "yesLogout": "लगआउट गर्नुहोस्",
+    "userDetails": "प्रयोगकर्ता विवरण",
+    "settings": "सेटिङहरू",
+    "privacyPolicy": "गोपनीयता र नीति",
+    "contactus": "सम्पर्क गर्नुहोस्"
+
+  },
+
+  "home": {
+    "uploadImage": "फोटो अपलोड गर्नुहोस्",
+    "setting": "सेटिङ",
+    "change": "परिवर्तन",
+    "yourLanguage": "तिम्रो भाषा",
+    "feedback": "प्रतिक्रिया ",
+    "news": "समाचार",
+    "title": "शीर्षक",
+    "faq": "बारम्बार प्रश्न सोध्नुहोस्",
+    "notice": "सूचना",
+    "gender": "लिङ्ग",
+    "accountStatus": "खाता स्थिति",
+    "video": "भिडियो",
+    "notVerified": "प्रमाणित गरिएको छैन",
+    "ourmission": "हाम्रो मिशन र लक्ष्य",
+    "privacyPolicy": "गोपनीयता र नीति",
+    "appointmentForm": "समाचार र घटना",
+    "newsAndEvent": "समाचार र घटना",
+    "ourServices": "हाम्रा सेवाहरू",
+    "employee": "कर्मचारी सूची",
+    "electedrepresentative": "निर्वाचित प्रतिनिधि",
+    "downloads": "डाउनलोड गर्नुहोस्",
+    "organizationstructure": "संगठन संरचना",
+    "krishiknowledge": "कृषक ज्ञान",
+    "image": "तस्बिर पुस्तिका",
+    "literateLevel": "साक्षर स्तर",
+    "academicQualification": "शैक्षिक योग्यता",
+    "dob" : "जन्म मृत्यु",
+    "dhur": "धुर",
+    "katha": "कथा",
+    "biggha": "बिगघा",
+    "landArea": "भूमि क्षेत्र",
+    "yearlyTurnOver": "वार्षिक टर्नओभर",
+    "agriculture": "कृषि",
+    "nonAgriculture": "गैर कृषि",
+    "averageMonthEngageOnAgriculture": "औसत महिनाको संलग्नता कृषिमा",
+    "farmerCategory": "किसान वर्ग",
+    "certificateNumber": "प्रमाणपत्र नम्बर"
+
+  },
+  "validation": {
+    "pleaseEnterValidField": "कृपया मान्य {} प्रविष्ट गर्नुहोस्",
+    "fieldCannotBeEmpty": "{} क्षेत्र खाली हुन सक्दैन",
+    "phoneNumber": "फोन नम्बर",
+    "invalidPasswordMessage": "सुनिश्चित गर्नुहोस् कि तपाईको {} कम्तिमा 1 माथिल्लो केस अक्षर, विशेष वर्ण साथै 8 अक्षर लामो हुन्छ।",
+    "enterValidPhoneNumber": "कृपया मान्य फोन नम्बर प्रविष्ट गर्नुहोस्",
+    "email": "इमेल",
+    "pleaseEnterValidMobileNumberOrEmail": "कृपया मान्य मोबाइल नम्बर वा इमेल प्रविष्ट गर्नुहोस्",
+    "fileSizeExcced": "फाइल आकार नाघ्यो",
+    "thisFieldCannotBeEmpty": "यो क्षेत्र खाली हुन सक्दैन",
+    "imageIsRequired": "छवि आवश्यक छ",
+    "enterValid": "मान्य {} प्रविष्ट गर्नुहोस्",
+    "shouldBeNepali": "{} नेपालीमा हुनुपर्छ"
+  },
+  "forgetPassword": {
+    "resetPassword": "पस्स्वोर्ड रेसेट",
+    "enterNewPassword": "कृपया आफ्नो नयाँ पासवर्ड प्रविष्ट गर्नुहोस्",
+    "newPassword": "नया पासवर्ड",
+    "confirmPassword": "पासवर्ड सुनिश्चित गर्नुहोस",
+    "doesnotMatch": "पुष्टि पासवर्ड मेल भएन",
+    "forgetPasswordText": "पासवर्ड बिर्सनुभयो?",
+    "verifyEmailAddress": "आफ्नो इमेल ठेगाना प्रमाणित गर्नुहोस्",
+    "changePassword": "पासवर्ड परिवर्तन गर्नुहोस्",
+    "passwordChangedSuccessfully": "पासवर्ड सफलतापूर्वक परिवर्तन भयो"
+  }
+
+
+
+}

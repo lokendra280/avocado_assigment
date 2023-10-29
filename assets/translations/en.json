@@ -1,0 +1,145 @@
+{
+  "english": "English",
+  "nepali": "Nepali",
+  "appTitle": "KrishiHub",
+  "common": {
+    "welcome": "Welcome",
+    "continueText": "Continue",
+    "noDataFound": "data not found",
+    "clear": "clear",
+    "search": "Search",
+    "submit": "Submit",
+    "total": "total",
+    "cancel": "Cancel",
+    "comingSoon": "Coming Soon",
+    "contactfromsubmit": "Contact Form Send Sucessfully",
+    "news": "News",
+
+
+    "maxSizeIs3MB": "Max size 3 MB",
+    "datanotFound": "Data Not Found"
+  },
+  "dashboard": {
+    "image": "Image",
+    "notification": "Notification",
+    "profile": "Profile"
+  },
+
+  "login": {
+    "welcome": "Welcome",
+    "signInToYourAccount": "Sign In To Your Account",
+    "mobileNumberOrEmail": "Email",
+    "password": "Password",
+    "rememberMe": "Remember Me",
+    "forgetPassword": "Forgot Password",
+    "login": "Login",
+    "newUser": "New User",
+    "createNewAccount": "Create New Account",
+    "loginSuccessMessage": "Logged-in successfully",
+    "addressDetails": "Address Details"
+
+  },
+  "forgetPassword": {
+    "resetPassword": "Reset Password",
+    "enterNewPassword": "Please enter your new password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "doesnotMatch": "confirm password doesnot match",
+    "forgetPasswordText": "Forget Password ?",
+    "verifyEmailAddress": "Verify your email address",
+    "changePassword": "Change Password",
+    "passwordChangedSuccessfully": "password changed successfully"
+  },
+  "profile": {
+    "logout": "LOGOUT",
+    "logoutMessage": "Are you sure you want to logout ?",
+    "yesText": "Yes",
+    "noText": "No",
+    "yesLogout": "Yes, Logout",
+    "userDetails": "User Details",
+    "settings": "Settings",
+    "privacyPolicy": "Privacy and Policy",
+    "contactus": "Contact Us"
+    
+    
+  },
+
+
+  "home": {
+    "setting": "Setting",
+    "change": "Change",
+    "yourLanguage": "Your Language",
+    "feedback": "FeedBack",
+    "userName": "User Name",
+    "title": "Title",
+    "faq": "FAQ",
+    "gender": "Gender",
+    "accountStatus": "Account status",
+    "video": "Video",
+    "notVerified": "Not verified",
+    "ourmission": "Our Mission And Goal",
+    "privacyPolicy": "Privacy Policy",
+    "appointment": "Appointment",
+    "appointmentStatus": "Appointment Status",
+    "appointmentHistory": "Appointment History",
+    "appointmentForm": "Appointment Form",
+    "newsAndEvent": "News And Event",
+    "ourServices": "Our Services",
+    "employee": "Employee",
+    "downloads": "Download",
+    "electedrepresentative": "Elected Representative",
+    "organizationstructure": "Organization Structure",
+    "krishiknowledge": "Krishi Knowledge",
+    "image": "Image",
+    "viewall": "View All",
+    "literateLevel": "Literate Level",
+    "academicQualification" : "Academic Qualification",
+    "dob" : "Death of Birth",
+    "dhur": "Dhur",
+    "katha": "Katha",
+    "biggha": "Biggha",
+    "landArea": "LandArea",
+    "yearlyTurnOver": "YearlyTurnOver",
+    "agriculture": "Agriculture",
+    "nonAgriculture": "NonAgriculture",
+    "averageMonthEngageOnAgriculture": "AverageMonthEngageOnAgriculture",
+    "farmerCategory": "FarmerCategory",
+    "certificateNumber": "CertificateNumber"
+    
+
+  },
+
+
+  
+  "feedback": {
+    "fullname": "Fullname",
+    "middlename": "MiddleName",
+    "lastname": "Last Name",
+    "email": "Email",
+    "phonenumber": "PhoneNumber",
+    "titles": "Titles",
+    "description": "Description",
+    "address": "Address",
+    "subject": "Subject",
+    "message": "Message"
+  },
+
+  "employee": {
+    "employeelist": "Employee List"
+  },
+  "validation": {
+    "pleaseEnterValidField": "Please enter valid {}",
+    "fieldCannotBeEmpty": "{} field cannot be empty",
+    "phoneNumber": "Phone Number",
+    "invalidPasswordMessage": "Make sure your {} contains atleast 1 upper case letter, special character as well as 8 letters long.",
+    "enterValidPhoneNumber": "Please enter valid phone number",
+    "email": "Email",
+    "pleaseEnterValidMobileNumberOrEmail": "Please eneter valid mobile number or email",
+    "fileSizeExcced": "File size excceed",
+    "thisFieldCannotBeEmpty": " This field cannot be empty",
+    "imageIsRequired": "Image is Required",
+    "enterValid": "Enter valid {}",
+    "shouldBeNepali": "{} should be Nepali"
+  }
+
+}
